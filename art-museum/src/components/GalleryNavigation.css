@@ -1,0 +1,11 @@
+.active {
+    color: rgb(204, 20, 20);
+    /* font-size: 100px; */
+    
+}
+
+.pending {
+    background-color:rgb(43, 16, 126);
+    /* font-size: 300px; */
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
